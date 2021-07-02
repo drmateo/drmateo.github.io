@@ -32,6 +32,17 @@ markdown: CommonMark
 twitter_username: cmma86
 github_username:  drmateo
 
+lsi: false
+safe: true
+source: ""
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 # Build settings
 theme: minima
 #remote_theme: rundocs/jekyll-rtd-theme
